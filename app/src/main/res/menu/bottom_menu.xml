@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:title="@string/local_music"
+    android:id="@+id/local"
+    android:icon="@drawable/iconsmusic"
+
+    />
+
+    <item
+        android:id="@+id/online"
+        android:title="@string/online"
+        android:icon="@drawable/iconsonline"
+
+        />
+
+        <item
+            android:id="@+id/download"
+            android:title="@string/download"
+           android:icon="@drawable/downloadicon"
+            />
+
+</menu>
